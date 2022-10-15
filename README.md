@@ -1,1 +1,1 @@
-# hactoberfest.practice
+# hactoberfest_practice
